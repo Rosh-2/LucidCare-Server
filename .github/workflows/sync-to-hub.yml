@@ -15,4 +15,6 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           # Replace 'YOUR_HF_USERNAME' and 'YOUR_SPACE_NAME' below with your actual Hugging Face credentials
-          git push --force https://Rosh-2:$HF_TOKEN@huggingface.co/spaces/Rosh-2/lucid-care-backend main
+          git push --force https://Rosh-2:$HF_TOKEN@huggingface.co/spaces/Rosh-2/LucidCare-Backend main
+
+
