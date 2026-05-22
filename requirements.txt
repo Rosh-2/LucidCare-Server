@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+Flask
+python-dotenv
+flask-cors
+PyJWT
+bcrypt
+supabase
+httpx>=0.28.1
+websockets>=13.0
+ultralytics
+torch
+torchvision
+groq
+PyPDF2
+opencv-python-headless
+numpy
+Pillow
+pymupdf
+gunicorn

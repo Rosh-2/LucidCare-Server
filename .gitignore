@@ -1,0 +1,11 @@
+.env
+node_modules/
+venv/
+__pycache__/
+*.pyc
+uploads/*
+!uploads/.gitkeep
+runs/*
+!runs/.gitkeep
+.DS_Store
+*.log
